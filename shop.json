@@ -1,0 +1,8 @@
+{
+  "name": "CabGo",
+  "open": true,
+  "cities": [
+    "Chennai",
+    "Madurai"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "user": "Demo User",
+    "city": "Chennai",
+    "skills": [
+        "Python",
+        "JSON",
+        "REST API"
+    ],
+    "api_key_loaded": true
+}
