@@ -1,0 +1,5 @@
+
+version,category_accuracy,priority_accuracy,complete_ticket_accuracy
+v1_full_prompt,100,70,70
+v2_no_output_format,100,70,70
+v3_no_constraints,100,80,80
