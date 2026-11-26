@@ -1,0 +1,45 @@
+
+{
+  "type": "object",
+  "properties": {
+    "candidate_name": {
+      "type": ["string", "null"]
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "years_of_experience": {
+      "type": ["number", "null"]
+    },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "strengths": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "gaps": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "candidate_name",
+    "skills",
+    "years_of_experience",
+    "education",
+    "strengths",
+    "gaps"
+  ],
+  "additionalProperties": false
+}
