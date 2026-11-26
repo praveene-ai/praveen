@@ -1,0 +1,23 @@
+RESUME
+
+Name: Alex Kumar
+Email: alex@example.com
+Phone: 000-000-0001
+
+CAREER OBJECTIVE
+To work as a Python Developer and improve my programming skills.
+
+SKILLS
+Python, SQL, HTML, CSS, Git
+
+EDUCATION
+Bachelor of Computer Science
+ABC College
+2023 - 2026
+
+PROJECTS
+Employee Management System
+Created a simple employee management application using Python and SQL.
+
+EXPERIENCE
+Fresher

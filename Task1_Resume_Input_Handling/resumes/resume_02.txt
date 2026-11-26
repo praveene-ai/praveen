@@ -1,0 +1,23 @@
+RESUME
+
+Name: Priya Sharma
+Email: priya@example.com
+Phone: 000-000-0002
+
+CAREER OBJECTIVE
+To begin my career as a Data Analyst.
+
+SKILLS
+Python, Pandas, NumPy, Excel, Power BI
+
+EDUCATION
+Bachelor of Information Technology
+XYZ University
+2022 - 2025
+
+PROJECTS
+Sales Data Analysis
+Analyzed sales data and created charts to identify business trends.
+
+EXPERIENCE
+Fresher

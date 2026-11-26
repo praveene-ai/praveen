@@ -1,0 +1,9 @@
+filename,characters,tokens,status
+resume_01.txt,371,95,Success
+resume_02.txt,357,98,Success
+resume_03.txt,404,104,Success
+resume_04.pdf,434,107,Success
+resume_05.pdf,425,106,Success
+resume_06.txt,405,100,Success
+resume_07.pdf,386,97,Success
+scanneded.pdf,0,0,Error - no text found (scanned or empty PDF)

@@ -1,0 +1,23 @@
+RESUME
+
+Name: Sneha Reddy
+Email: sneha@example.com
+Phone: 000-000-0006
+
+CAREER OBJECTIVE
+To work as a Business Analyst.
+
+SKILLS
+Excel, SQL, Python, Power BI, Communication
+
+EDUCATION
+Bachelor of Business Administration
+2022 - 2025
+
+PROJECTS
+Customer Analysis
+Analyzed customer information and prepared a business report.
+
+EXPERIENCE
+Business Analyst Intern
+Prepared reports and supported data analysis activities.
