@@ -1,0 +1,23 @@
+RESUME
+
+Name: Rahul Verma
+Email: rahul@example.com
+Phone: 000-000-0003
+
+CAREER OBJECTIVE
+To work as a Machine Learning Engineer.
+
+SKILLS
+Python, Scikit-learn, NumPy, Pandas, TensorFlow
+
+EDUCATION
+Bachelor of Computer Applications
+ABC University
+2021 - 2024
+
+PROJECTS
+House Price Prediction
+Built a regression model to predict house prices using Python.
+
+EXPERIENCE
+Completed an academic machine learning project.

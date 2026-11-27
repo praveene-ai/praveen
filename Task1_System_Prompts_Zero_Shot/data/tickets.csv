@@ -1,0 +1,12 @@
+
+id,text,true_category,true_priority
+1,"I cannot log in to my account after resetting my password.",Account,High
+2,"I was charged twice for my monthly subscription.",Billing,High
+3,"The application crashes every time I open the settings page.",Technical,High
+4,"Can you tell me where my package is? The tracking number is not updating.",Shipping,Medium
+5,"How can I change the email address associated with my account?",Account,Low
+6,"I would like a copy of my invoice for last month.",Billing,Low
+7,"The website is loading very slowly, but I can still use it.",Technical,Medium
+8,"My package arrived with a broken item inside.",Shipping,High
+9,"What are your customer support working hours?",General,Low
+10,"Please explain how your loyalty points program works.",General,Low

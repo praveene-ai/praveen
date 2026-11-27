@@ -1,0 +1,9 @@
+resume_file,status,error
+resume_01.txt,Success,
+resume_02.txt,Success,
+resume_03.txt,Success,
+resume_04.pdf,Success,
+resume_05.pdf,Success,
+resume_06.txt,Success,
+resume_07.pdf,Success,
+scanneded.pdf,Error,Error code: 400 - messages[1].content must be a string
